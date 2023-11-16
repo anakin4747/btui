@@ -1,16 +1,12 @@
-[![Go Report Card](https://goreportcard.com/badge/github.com/darkhz/bluetuith)](https://goreportcard.com/report/github.com/darkhz/bluetuith) [![Packaging status](https://repology.org/badge/tiny-repos/bluetuith.svg)](https://repology.org/project/bluetuith/versions)
+# btui
 
-![demo](demo/demo.gif)
-
-# bluetuith
-bluetuith is a TUI-based bluetooth connection manager, which can interact with bluetooth adapters and devices.
+My fork of bluetuith. It is a TUI-based bluetooth connection manager, which can interact with bluetooth adapters and devices.
+I just wanted to add vim motions to it.
 It aims to be a replacement to most bluetooth managers, like blueman.
 
 This is only available on Linux.
+Cuz dbus is only Linux.
 
-This project is currently in the alpha stage.
-
-[![Packaging status](https://repology.org/badge/vertical-allrepos/bluetuith.svg)](https://repology.org/project/bluetuith/versions)
 
 ## Features
 - Transfer and receive files via OBEX.
@@ -20,8 +16,3 @@ This project is currently in the alpha stage.
 - Connect to or manage Bluetooth based networking/tethering (PANU/DUN)
 - Remotely control media playback on the connected device
 - Mouse support
-
-## Documentation
-The documentation is now hosted [here](https://darkhz.github.io/bluetuith)
-
-The wiki is out-of-date.
